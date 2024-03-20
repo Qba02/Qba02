@@ -1,5 +1,6 @@
 ## Hi there 👋
 - 🌱 I’m currently studying Computer Science
+- 📫 Contact me: <a href="mailto:njkaub002@gmail.com">njakub002@gmail.com</a>
 
 ### I'm using:
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
