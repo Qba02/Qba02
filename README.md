@@ -1,6 +1,7 @@
 ## Hi there 👋
 - 🌱 I’m currently studying Computer Science
 - 📫 Contact me: <a href="mailto:njkaub002@gmail.com">njakub002@gmail.com</a>
+- 📑 See my online resume: <a href="https://qba02.github.io/CV/">CV</a>
 
 ### I'm using:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
